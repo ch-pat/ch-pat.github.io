@@ -13,8 +13,8 @@ mkdir docs
 git worktree prune
 rm -rf .git/worktrees/docs/
 
-echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public origin/gh-pages
+echo "Checking out gh-pages branch into docs"
+git worktree add -B gh-pages docs origin/gh-pages
 
 echo "Removing existing files"
 rm -rf docs/*
