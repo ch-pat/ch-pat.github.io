@@ -1,0 +1,17 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "file-download",
+			"title" : "downbpiol",
+			"url" : "https://github.com/ch-pat/downbpiol",
+			"description" : "A tool to automate the download of useful files from the BPIOL website. Built using 100% Python and Selenium for browser automation. Provides a simple UI for ease of use."
+		},
+		{
+			"icon" : "laptop-code",
+			"title" : "xForm / drivemanager",
+			"url" : "https://github.com/ch-pat/drivemanager",
+			"description" : "A desktop application that allows to connect to a local or remote Synology NAS through its API, manage users and upload files to each user. Built using Python and PySimpleGUI"
+		}
+	]
+}

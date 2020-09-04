@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Python" : "95",
+		"Java" : "75",
+		"Git" : "80",
+		"Android" : "65",
+		"MySQL" : "70"
+	}
+}
