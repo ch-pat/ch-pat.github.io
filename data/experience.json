@@ -2,20 +2,21 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "2010 - Present",
+			"timeperiod" : "2010 - 2020",
 			"company" : "Math & English Private Tutor",
 			"website": "",
-			"description" : "I have been giving English and (mostly) Math lessons to high school students. It helped me pay for my studies and I learned patience and how to teach others."
+			"description" : "I have been giving a few English and for the most part Math lessons to high school students. It helped me pay for my studies and I learned patience and how to teach others."
 		},
 		{
-			"timeperiod" : "2018 - Present",
+			"timeperiod" : "2018 - 2021",
 			"company" : "Accounting and IT support",
-			"description" : "Managed the accounting and documented each bank account movement in our management system. Whenever possible I used my Computer Science knowledge to improve the workflow in the office by making Python scripts or Excel worksheets to facilitate the job. Currently developing a script using Python and the Selenium library to grab important files from a web service."
+			"description" : "Managed the accounting and documented each bank account movement in our management system. Whenever possible I used my Computer Science knowledge to improve the workflow in the office by making Python scripts or Excel worksheets to facilitate the job. Developed 'downbpiol', a script using Python and the Selenium library to grab important files from a web service."
 		},
 		{
-			"timeperiod" : "2020 - Present",
+			"timeperiod" : "2020 - 2021",
 			"company" : "Freelance developer",
-			"description" : "I have been working on a software solution that interfaces with a Synology NAS and allows for easy creation of users and uploading of files, complete with a simple desktop UI."
+			"description" : "Worked on 'xForm', a software solution that interfaces with a Synology NAS using the official API and SSH where needed. It allows for easy creation of users and uploading of files, complete with a simple desktop UI.
+			Worked on an user-friendly desktop CRUD application for editing Excel files using Python and pandas."
 		}
 	]
 }
