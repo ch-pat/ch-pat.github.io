@@ -11,7 +11,13 @@
 			"icon" : "laptop-code",
 			"title" : "xForm / drivemanager",
 			"url" : "https://github.com/ch-pat/drivemanager",
-			"description" : "A desktop application that allows to connect to a local or remote Synology NAS through its API, manage users and upload files to each user. Built using Python and PySimpleGUI"
+			"description" : "A desktop application that allows to connect to a local or remote Synology NAS through its API, manage users and upload files to each user. Built using Python and PySimpleGUI. *(currently private)"
+		},
+		{
+			"icon" : "laptop-code",
+			"title" : "Table Explorer",
+			"url" : "https://github.com/ch-pat/table-explorer",
+			"description" : "A desktop application that provides an user-friendly interface for updating Excel files and managing documents. Built using Python with pandas and PySimpleGUI"
 		}
 	]
 }
