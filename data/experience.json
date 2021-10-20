@@ -16,6 +16,11 @@
 			"timeperiod" : "2020 - 2021",
 			"company" : "Freelance developer",
 			"description" : "Worked on 'xForm', a software solution that interfaces with a Synology NAS using the official API and SSH where needed. It allows for easy creation of users and uploading of files, complete with a simple desktop UI. Worked on an user-friendly desktop CRUD application for editing Excel files using Python and pandas."
+		},
+		{
+			"timeperiod" : "2021 - Present",
+			"company" : "Ericsson",
+			"description" : "Internship as Integration Engineer. Learning Network Function Virtualization technologies for Service Delivery."
 		}
 	]
 }
