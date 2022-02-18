@@ -18,9 +18,14 @@
 			"description" : "Worked on 'xForm', a software solution that interfaces with a Synology NAS using the official API and SSH where needed. It allows for easy creation of users and uploading of files, complete with a simple desktop UI. Worked on an user-friendly desktop CRUD application for editing Excel files using Python and pandas."
 		},
 		{
-			"timeperiod" : "2021 - Present",
+			"timeperiod" : "2021 - 2022",
 			"company" : "Ericsson",
-			"description" : "Internship as Integration Engineer. Learning Network Function Virtualization technologies for Service Delivery."
+			"description" : "Managed network configurations and troubleshooted issues within the VMWare cloud stack."
+		},
+        {
+			"timeperiod" : "2022 - Present",
+			"company" : "NTT Data",
+			"description" : "Java Spring Developer, working on various projects using the Spring framework"
 		}
 	]
 }
