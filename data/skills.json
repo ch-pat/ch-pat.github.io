@@ -5,6 +5,7 @@
 		"Java" : "75",
 		"Git" : "80",
 		"Android" : "65",
-		"MySQL" : "70"
+		"SQL" : "70",
+        "Node.js": "90"
 	}
 }

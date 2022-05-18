@@ -25,7 +25,7 @@
         {
 			"timeperiod" : "2022 - Present",
 			"company" : "NTT Data",
-			"description" : "Java Spring Developer, working on various projects using the Spring framework"
+			"description" : "Work on Google cloud functions that fetch data from a Spanner db, written with express API framework and unit tested in nodejs; integration tests with python Behave library for BDD"
 		}
 	]
 }
