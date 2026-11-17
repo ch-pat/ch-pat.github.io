@@ -1,5 +1,0 @@
-baseURL = "https://ch-pat.github.io/"
-languageCode = "en-us"
-title = "Choma Patryk | Italian Software Developer"
-theme = "uilite"
-publishDir = "docs"
