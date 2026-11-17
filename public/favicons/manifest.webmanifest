@@ -1,0 +1,13 @@
+{
+  "name": "Patryk Choma — Software Engineer",
+  "short_name": "Patryk Choma",
+  "description": "Patryk Choma is a software engineer based in Italy, focused on backend development, automation, APIs, and testing.",
+  "dir": "auto",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": ".",
+  "background_color": "#fff",
+  "theme_color": "#f7f8f6",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
