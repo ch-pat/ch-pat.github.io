@@ -15,6 +15,7 @@ Astro 7 is a good fit for a personal portfolio that is mostly content and does n
 - The layout uses responsive CSS Grid and Flexbox, with breakpoints for smaller screens.
 - A locally hosted Inter font avoids a third-party font request.
 - The page uses no animation libraries or client-side framework code. Only small hover and focus transitions are used, and reduced-motion preferences are respected.
+- The `.nojekyll` file is copied into the build so GitHub Pages serves Astro’s `_astro/` assets instead of filtering the underscore-prefixed directory.
 - Semantic sections, a skip link, visible keyboard focus, descriptive page metadata, and accessible navigation support usability beyond the visual design.
 - Content is rendered at build time, so the page remains readable without JavaScript.
 
