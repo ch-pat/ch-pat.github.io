@@ -274,6 +274,52 @@ a:focus-visible {
   font-size: 16px;
 }
 
+.cv-download {
+  display: grid;
+  margin-top: 12px;
+  padding-top: 12px;
+  align-items: center;
+  border-top: 1px solid var(--line);
+  grid-template-columns: 84px 1fr;
+  gap: 13px;
+}
+
+.cv-qr-link {
+  display: block;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  background: white;
+}
+
+.cv-qr-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cv-download-copy {
+  display: grid;
+  gap: 4px;
+}
+
+.cv-download-label {
+  margin: 0;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.cv-download-link {
+  width: fit-content;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 620;
+}
+
+.cv-download-link:hover {
+  color: var(--accent-dark);
+}
+
 .scroll-cue {
   position: absolute;
   bottom: 30px;

@@ -84,6 +84,8 @@ const skills = [
   'Jenkins',
   'Jira',
 ];
+
+const cvUrl = 'https://github.com/ch-pat/curriculum-vitae/blob/main/EN/main.pdf?raw=true';
 ---
 
 <!doctype html>
@@ -130,6 +132,17 @@ const skills = [
           <p>Backend development</p>
           <p>Automation &amp; tooling</p>
           <p>APIs &amp; testing</p>
+          <div class="cv-download">
+            <a class="cv-qr-link" href={cvUrl} aria-label="Download Patryk Choma's CV PDF">
+              <img src="/CV_QR.png" alt="QR code linking to the CV PDF" width="180" height="180" />
+            </a>
+            <div class="cv-download-copy">
+              <p class="cv-download-label">Curriculum vitae</p>
+              <a class="cv-download-link" href={cvUrl}>
+                Download CV <span aria-hidden="true">↓</span>
+              </a>
+            </div>
+          </div>
           <div class="note-bottom"><span>Curious by nature</span><span aria-hidden="true">✳</span></div>
         </aside>
         <a class="scroll-cue" href="#about"><span></span> Scroll to explore</a>
